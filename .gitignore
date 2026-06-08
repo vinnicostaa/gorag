@@ -1,0 +1,22 @@
+# Build outputs
+bin/
+dist/
+tmp/
+
+# Local environment
+.env
+.env.local
+
+# Generated gorag artifacts
+.vaultgraph/
+
+# Logs
+*.log
+
+# OS/editor files
+.DS_Store
+.idea/
+.vscode/
+
+# Go coverage
+coverage.out
